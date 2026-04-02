@@ -2,29 +2,29 @@
   "name": "Ed1tP4d Editor",
   "short_name": "Ed1tP4d",
   "description": "Modern code & text editor with PWA support",
-  "start_url": "/webapp.html",
+  "start_url": "https://tr00pst0ck.github.io/Ed1tP4d/webapp.html",
   "display": "fullscreen",
   "orientation": "portrait",
-  "theme_color": "#825e32",
-  "background_color": "#3e2c20",
+  "theme_color": "#0f1214",
+  "background_color": "#0f1214",
   "icons": [
     {
-      "src": "/icons/favicon-192x192.png",
+      "src": "https://tr00pst0ck.github.io/Ed1tP4d/icons/favicon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/favicon-512x512.png",
+      "src": "https://tr00pst0ck.github.io/Ed1tP4d/icons/favicon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/icons/favicon-144x144.png",
+      "src": "https://tr00pst0ck.github.io/Ed1tP4d/icons/favicon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/icons/favicon-256x256.png",
+      "src": "https://tr00pst0ck.github.io/Ed1tP4d/icons/favicon-256x256.png",
       "sizes": "256x256",
       "type": "image/png"
     }
